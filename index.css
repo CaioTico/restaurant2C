@@ -1,0 +1,12 @@
+#coluna {
+width: 50%;
+min-width: 250px;
+display: inline-block;
+vertical-align: top;
+}
+#colunas{
+width: 50%;
+min-width: 250px;
+display: inline-block;
+vertical-align: top;
+}
